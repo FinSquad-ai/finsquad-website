@@ -1,4 +1,4 @@
-import Logo from '@/assets/images/FinsquadLogo2.jpg';
+import Logo from '@/assets/images/FinsquadLogo2.png';
 import Image from 'next/image';
 
 const footerLinks = [
